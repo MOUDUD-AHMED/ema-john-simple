@@ -1,0 +1,25 @@
+.product {
+    display: flex;
+    margin: 5px 5px;
+    border-bottom: 1px solid lightgray;
+    padding: 5px;
+}
+
+.product-name {
+    color: #5200FF;
+    font-weight: 400;
+}
+
+.product-price {
+    font-size: 20px;
+}
+
+.card-button {
+    background-color: #F0C14B;
+    border: 1px solid #A88734;
+    width: 150px;
+    height: 25px;
+    padding: 5px;
+    border-radius: 3px;
+    cursor: pointer;
+}
